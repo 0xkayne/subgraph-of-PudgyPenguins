@@ -71,3 +71,7 @@ This SubGraph is designed to collect and organize data related to the PudgyPengu
   ```
 
 This SubGraph provides a comprehensive solution for accessing and analyzing data related to the PudgyPenguins NFT collection on Ethereum, making it a valuable resource for developers, collectors, and analysts alike.
+
+# DEMO
+
+![demo](.\demo\demo.gif)
